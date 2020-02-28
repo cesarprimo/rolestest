@@ -1,0 +1,1 @@
+cochole.write ("k"
